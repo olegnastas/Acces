@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\Myproject C#\ConsoleApp5\AccesControl\bin\Debug\AccesControl.exe.config
+C:\Users\Dell\Desktop\Myproject C#\ConsoleApp5\AccesControl\bin\Debug\AccesControl.exe
+C:\Users\Dell\Desktop\Myproject C#\ConsoleApp5\AccesControl\bin\Debug\AccesControl.pdb
+C:\Users\Dell\Desktop\Myproject C#\ConsoleApp5\AccesControl\obj\Debug\AccesControl.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Myproject C#\ConsoleApp5\AccesControl\obj\Debug\AccesControl.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Myproject C#\ConsoleApp5\AccesControl\obj\Debug\AccesControl.exe
+C:\Users\Dell\Desktop\Myproject C#\ConsoleApp5\AccesControl\obj\Debug\AccesControl.pdb
