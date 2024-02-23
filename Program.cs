@@ -53,16 +53,17 @@ namespace AccesControl
             if (DoorCondition)
             {
                 Console.WriteLine("Нажмите кноку ");
+
                 int exitbuton = Convert.ToInt32(Console.ReadLine());
 
-                if (exitbuton > 1)
+                if (exitbuton >= 1)
                 {
                     exitbuton = 0;
                 }
                 ExitButon = Convert.ToBoolean(exitbuton);
 
             }
-
+            ExitButon = true;
 
 
 
